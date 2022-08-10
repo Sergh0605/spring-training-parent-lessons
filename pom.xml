@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.itentika.edu.spring</groupId>
+  <artifactId>spring-training-parent-lessons</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>spring-training-parent-lessons</name>
+  <description>Tasks for Spring training</description>
+  <modules>
+  	<module>spring-basic-1</module>
+  	<module>spring-basic-2-1</module>
+  	<module>spring-basic-2-2</module>
+  	<module>spring-core-1</module>
+  	<module>spring-data-3</module>
+  	<module>spring-data-1</module>
+  	<module>spring-data-2</module>
+  	<module>spring-web-1</module>
+  </modules>
+</project>
